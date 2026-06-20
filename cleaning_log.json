@@ -1,0 +1,51 @@
+{
+  "steps": [
+    {
+      "step": "remove_duplicates",
+      "duplicates_removed": 19
+    },
+    {
+      "step": "standardize_text",
+      "columns": [
+        "CustomerName",
+        "Category",
+        "Region",
+        "Product",
+        "PaymentMethod"
+      ],
+      "detail": "Trimmed whitespace and normalized casing for consistent category/region labels"
+    },
+    {
+      "step": "standardize_dates",
+      "formats_handled": [
+        "%Y-%m-%d",
+        "%d/%m/%Y",
+        "%d-%m-%Y",
+        "%m/%d/%Y"
+      ],
+      "unparseable_dates": 0
+    },
+    {
+      "step": "clean_numeric_fields",
+      "currency_symbols_stripped": true,
+      "invalid_quantities_flagged": 39
+    },
+    {
+      "step": "handle_missing_values",
+      "detail": {
+        "rows_dropped_missing_identifiers": 0,
+        "UnitPrice_imputed_with_category_median": 7,
+        "Quantity_imputed_with_category_median": 44,
+        "CustomerName_filled_unknown": 4,
+        "Region_filled_unknown": 10,
+        "PaymentMethod_filled_unknown": 6,
+        "rows_dropped_unparseable_date": 0
+      }
+    }
+  ],
+  "rows_before": 339,
+  "missing_before": 33,
+  "rows_after": 320,
+  "missing_after": 0,
+  "rows_removed_total": 19
+}

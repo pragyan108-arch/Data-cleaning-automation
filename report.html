@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Data Cleaning & Reporting Automation — Summary</title>
+<style>
+  :root {
+    --bg: #0B0C12;
+    --panel: #12131A;
+    --border: #23242F;
+    --text: #E6E7EE;
+    --muted: #9CA0B5;
+    --accent: #6366F1;
+    --accent2: #22D3AA;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    padding: 32px;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  header { margin-bottom: 28px; }
+  header h1 { margin: 0 0 6px; font-size: 26px; letter-spacing: -0.3px; }
+  header p { margin: 0; color: var(--muted); font-size: 14px; }
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+  .kpi-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .kpi-card .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .kpi-card .value { font-size: 22px; font-weight: 700; margin-top: 6px; }
+  .kpi-card.accent .value { color: var(--accent2); }
+  section { margin-bottom: 32px; }
+  section h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+  .chart-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .chart-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+  }
+  .chart-img { width: 100%; border-radius: 6px; display: block; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+  th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; }
+  tr:last-child td { border-bottom: none; }
+  .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .pill.green { background: rgba(34,211,170,0.15); color: var(--accent2); }
+  .pill.red { background: rgba(239,68,68,0.15); color: #EF4444; }
+  footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 30px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>Data Cleaning &amp; Reporting Automation</h1>
+    <p>Automated pipeline summary · generated 20 Jun 2026, 08:31 AM</p>
+  </header>
+
+  <section>
+    <h2>Business KPIs (post-cleaning)</h2>
+    <div class="kpi-grid">
+      <div class="kpi-card accent">
+        <div class="label">Total Revenue</div>
+        <div class="value">₹1,958,757</div>
+      </div>
+      <div class="kpi-card">
+        <div class="label">Total Orders</div>
+        <div class="value">320</div>
+      </div>
+      <div class="kpi-card">
+        <div class="label">Avg Order Value</div>
+        <div class="value">₹6,121</div>
+      </div>
+      <div class="kpi-card">
+        <div class="label">Top Category</div>
+        <div class="value">Stationery</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Cleaning Pipeline Audit</h2>
+    <table>
+      <tr><th>Metric</th><th>Before</th><th>After</th><th>Result</th></tr>
+      <tr>
+        <td>Row count</td><td>339</td><td>320</td>
+        <td><span class="pill red">19 removed</span></td>
+      </tr>
+      <tr>
+        <td>Duplicate records</td><td>19</td><td>0</td>
+        <td><span class="pill green">Resolved</span></td>
+      </tr>
+      <tr>
+        <td>Missing values</td><td>33</td><td>0</td>
+        <td><span class="pill green">Resolved</span></td>
+      </tr>
+      <tr>
+        <td>Date formats</td><td>4 inconsistent formats</td><td>1 (ISO 8601)</td>
+        <td><span class="pill green">Standardized</span></td>
+      </tr>
+      <tr>
+        <td>Currency formatting</td><td>Mixed (₹, commas)</td><td>Numeric float</td>
+        <td><span class="pill green">Standardized</span></td>
+      </tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>Visual Summaries</h2>
+    <div class="chart-grid">
+      <div class="chart-card"><img src="charts/revenue_by_category.png" alt="Revenue by Category" class="chart-img" /></div>
+      <div class="chart-card"><img src="charts/orders_by_region.png" alt="Orders by Region" class="chart-img" /></div>
+      <div class="chart-card"><img src="charts/monthly_revenue_trend.png" alt="Monthly Revenue Trend" class="chart-img" /></div>
+      <div class="chart-card"><img src="charts/payment_methods.png" alt="Orders by Payment Method" class="chart-img" /></div>
+    </div>
+  </section>
+
+  <footer>Generated automatically by clean_data.py + generate_report.py — no manual editing required.</footer>
+
+</div>
+</body>
+</html>

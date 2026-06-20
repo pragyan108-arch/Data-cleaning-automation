@@ -1,0 +1,321 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,Region,PaymentMethod,Revenue
+ORD1283,Isha Singh,Wireless Mouse,Electronics,2.0,3316.07,2025-05-18,East,Net Banking,6632.14
+ORD1245,Pooja Sharma,USB-C Cable,Electronics,3.0,404.87,2026-01-02,West,Cash on Delivery,1214.61
+ORD1239,Rahul Gupta,USB-C Cable,Electronics,1.0,4291.62,2025-09-13,West,Cash on Delivery,4291.62
+ORD1107,Arjun Joshi,Webcam HD,Electronics,1.0,2106.34,2026-05-03,South,Debit Card,2106.34
+ORD1149,Arjun Mehta,Storage Box,Home & Kitchen,2.0,2149.54,2025-12-29,East,Unknown,4299.08
+ORD1020,Dev Sharma,Face Wash,Beauty,1.0,2691.17,2025-03-24,South,Credit Card,2691.17
+ORD1207,Karan Reddy,Gel Pen Set,Stationery,2.0,1929.73,2026-03-31,West,Net Banking,3859.46
+ORD1138,Aditya Kumar,Desk Organizer,Stationery,4.0,2788.97,2025-12-20,East,Debit Card,11155.88
+ORD1014,Pooja Nair,Body Lotion,Beauty,2.0,181.28,2025-03-11,North,UPI,362.56
+ORD1275,Aman Joshi,LED Desk Lamp,Home & Kitchen,3.0,1278.5,2026-02-02,West,Net Banking,3835.5
+ORD1126,Aditya Nair,Coffee Mug Set,Home & Kitchen,5.0,874.9,2026-04-03,West,Debit Card,4374.5
+ORD1196,Arjun Verma,Wool Sweater,Apparel,3.0,4459.55,2026-02-15,West,Cash on Delivery,13378.65
+ORD1078,Aman Nair,Sticky Notes,Stationery,1.0,4111.18,2025-08-24,West,Debit Card,4111.18
+ORD1262,Karan Gupta,Denim Jacket,Apparel,1.0,1991.68,2025-06-01,West,UPI,1991.68
+ORD1063,Rahul Gupta,Sunscreen SPF50,Beauty,5.0,2911.31,2026-04-27,West,Credit Card,14556.55
+ORD1016,Simran Reddy,Sticky Notes,Stationery,2.0,3907.69,2025-04-03,North,Credit Card,7815.38
+ORD1084,Simran Nair,Sticky Notes,Stationery,2.0,4001.55,2026-02-22,North,Net Banking,8003.1
+ORD1178,Anjali Patel,Sunscreen SPF50,Beauty,1.0,2429.16,2025-07-01,North,Credit Card,2429.16
+ORD1238,Isha Nair,Bluetooth Speaker,Electronics,1.0,1085.34,2025-04-04,East,UPI,1085.34
+ORD1260,Priya Gupta,Wall Clock,Home & Kitchen,1.0,522.83,2026-02-28,East,Cash on Delivery,522.83
+ORD1297,Riya Joshi,Notebook Pack,Stationery,4.0,666.37,2025-04-16,West,Credit Card,2665.48
+ORD1054,Isha Verma,Sticky Notes,Stationery,2.0,1438.67,2025-11-06,East,UPI,2877.34
+ORD1232,Dev Verma,Coffee Mug Set,Home & Kitchen,2.0,184.67,2025-11-08,South,Debit Card,369.34
+ORD1180,Isha Sharma,Lip Balm,Beauty,5.0,3656.83,2025-04-09,South,Credit Card,18284.15
+ORD1089,Sneha Joshi,Sticky Notes,Stationery,2.0,4262.56,2025-05-11,North,Cash on Delivery,8525.12
+ORD1202,Simran Reddy,Denim Jacket,Apparel,1.0,3357.64,2026-03-16,South,Net Banking,3357.64
+ORD1220,Anjali Joshi,Face Wash,Beauty,4.0,3292.58,2026-03-30,South,Net Banking,13170.32
+ORD1201,Anjali Kumar,Non-Stick Pan,Home & Kitchen,2.0,2550.81,2026-03-13,East,Cash on Delivery,5101.62
+ORD1252,Neha Mehta,Bluetooth Speaker,Electronics,2.0,2917.41,2026-04-03,North,Debit Card,5834.82
+ORD1157,Karan Gupta,Coffee Mug Set,Home & Kitchen,5.0,2596.0299999999997,2026-02-15,East,Credit Card,12980.15
+ORD1017,Aditya Gupta,Denim Jacket,Apparel,5.0,948.17,2025-03-19,West,UPI,4740.85
+ORD1116,Vikram Reddy,Highlighter Pack,Stationery,1.0,4266.9,2025-12-24,South,Net Banking,4266.9
+ORD1086,Rohan Kumar,Laptop Stand,Electronics,1.0,370.02,2025-05-09,East,UPI,370.02
+ORD1223,Rohan Patel,Highlighter Pack,Stationery,1.0,4442.94,2026-01-02,East,UPI,4442.94
+ORD1064,Dev Reddy,Bluetooth Speaker,Electronics,2.0,1403.75,2025-07-02,West,Cash on Delivery,2807.5
+ORD1172,Karan Mehta,Running Shoes,Apparel,1.0,4161.68,2025-07-15,East,Credit Card,4161.68
+ORD1159,Sneha Joshi,Cotton T-Shirt,Apparel,3.0,844.77,2025-10-30,East,Credit Card,2534.31
+ORD1188,Neha Verma,Sticky Notes,Stationery,1.0,172.6,2026-01-04,East,Net Banking,172.6
+ORD1087,Dev Gupta,Denim Jacket,Apparel,1.0,1356.15,2025-09-14,South,UPI,1356.15
+ORD1214,Neha Verma,Laptop Stand,Electronics,5.0,1097.56,2026-05-22,West,UPI,5487.8
+ORD1272,Aman Kumar,Sports Cap,Apparel,3.0,2796.3,2026-10-03,East,Debit Card,8388.9
+ORD1189,Aditya Patel,Wool Sweater,Apparel,5.0,599.32,2025-04-06,North,Debit Card,2996.6
+ORD1076,Rahul Sharma,Storage Box,Home & Kitchen,2.0,4070.26,2026-03-29,South,Credit Card,8140.52
+ORD1070,Aditya Mehta,Sunscreen SPF50,Beauty,2.0,4416.37,2026-01-28,South,Cash on Delivery,8832.74
+ORD1171,Riya Kumar,Gel Pen Set,Stationery,2.0,1458.2,2025-01-03,South,Net Banking,2916.4
+ORD1244,Arjun Mehta,Face Wash,Beauty,2.0,2518.65,2026-05-30,West,Debit Card,5037.3
+ORD1103,Rohan Reddy,Highlighter Pack,Stationery,3.0,3394.25,2025-06-22,South,Debit Card,10182.75
+ORD1094,Isha Nair,Notebook Pack,Stationery,3.0,1679.66,2026-05-09,South,UPI,5038.98
+ORD1218,Pooja Patel,Bluetooth Speaker,Electronics,2.0,190.4,2026-03-09,East,Credit Card,380.8
+ORD1231,Rohan Nair,Coffee Mug Set,Home & Kitchen,4.0,2596.0299999999997,2025-08-17,North,UPI,10384.12
+ORD1102,Dev Gupta,Notebook Pack,Stationery,2.0,3769.31,2026-03-24,Unknown,Credit Card,7538.62
+ORD1003,Rahul Gupta,Sticky Notes,Stationery,2.0,4313.88,2025-05-04,East,Credit Card,8627.76
+ORD1161,Sneha Sharma,Non-Stick Pan,Home & Kitchen,2.0,2641.25,2025-02-12,South,UPI,5282.5
+ORD1268,Vikram Patel,Sunscreen SPF50,Beauty,1.0,905.76,2025-09-13,South,Credit Card,905.76
+ORD1210,Sneha Kumar,Laptop Stand,Electronics,2.0,3676.56,2026-03-15,East,Cash on Delivery,7353.12
+ORD1128,Arjun Nair,Coffee Mug Set,Home & Kitchen,1.0,2782.16,2026-01-16,West,Debit Card,2782.16
+ORD1206,Anjali Patel,Wool Sweater,Apparel,2.0,2279.94,2025-11-19,South,UPI,4559.88
+ORD1282,Aman Kumar,Cotton T-Shirt,Apparel,2.0,3166.83,2025-05-13,Unknown,Debit Card,6333.66
+ORD1114,Neha Nair,Gel Pen Set,Stationery,2.0,2158.31,2026-05-30,East,Net Banking,4316.62
+ORD1302,Priya Patel,Webcam HD,Electronics,5.0,3798.85,2025-07-01,West,Cash on Delivery,18994.25
+ORD1306,Priya Sharma,Gel Pen Set,Stationery,2.0,1311.36,2025-09-14,South,Debit Card,2622.72
+ORD1032,Sneha Reddy,Storage Box,Home & Kitchen,2.0,1258.04,2025-07-21,West,Credit Card,2516.08
+ORD1041,Aman Nair,Highlighter Pack,Stationery,5.0,2224.86,2026-04-02,East,Debit Card,11124.3
+ORD1168,Aditya Kumar,Laptop Stand,Electronics,2.0,3431.58,2026-05-31,North,UPI,6863.16
+ORD1008,Rahul Nair,Denim Jacket,Apparel,5.0,4055.53,2025-08-13,West,Debit Card,20277.65
+ORD1216,Aman Reddy,Desk Organizer,Stationery,2.0,4481.27,2025-06-12,South,Debit Card,8962.54
+ORD1316,Aman Joshi,Bluetooth Speaker,Electronics,2.0,314.81,2025-07-02,North,Credit Card,629.62
+ORD1019,Aditya Singh,Sticky Notes,Stationery,5.0,3180.17,2025-07-14,West,UPI,15900.85
+ORD1291,Neha Joshi,Running Shoes,Apparel,3.0,2738.43,2025-12-17,North,Debit Card,8215.29
+ORD1298,Rohan Nair,Face Wash,Beauty,3.0,4021.98,2025-12-16,South,Unknown,12065.94
+ORD1127,Arjun Mehta,Wireless Mouse,Electronics,2.0,4294.63,2026-03-25,South,Cash on Delivery,8589.26
+ORD1029,Pooja Singh,Storage Box,Home & Kitchen,2.0,3575.08,2025-09-02,North,Net Banking,7150.16
+ORD1173,Priya Verma,Body Lotion,Beauty,2.0,3650.23,2025-08-02,South,Net Banking,7300.46
+ORD1009,Anjali Reddy,Bluetooth Speaker,Electronics,1.0,1823.74,2025-09-15,West,Cash on Delivery,1823.74
+ORD1080,Karan Gupta,Gel Pen Set,Stationery,4.0,2459.21,2025-09-21,East,UPI,9836.84
+ORD1280,Priya Sharma,Running Shoes,Apparel,3.0,1339.85,2025-12-06,South,Cash on Delivery,4019.55
+ORD1273,Isha Patel,Wool Sweater,Apparel,5.0,2692.52,2026-01-19,North,Cash on Delivery,13462.6
+ORD1269,Neha Joshi,Running Shoes,Apparel,5.0,2914.03,2025-09-05,North,Credit Card,14570.15
+ORD1235,Aditya Verma,Sticky Notes,Stationery,1.0,2348.61,2025-05-03,West,Credit Card,2348.61
+ORD1230,Arjun Gupta,Sticky Notes,Stationery,2.0,4200.55,2026-03-06,North,Cash on Delivery,8401.1
+ORD1050,Dev Sharma,Sunscreen SPF50,Beauty,2.0,3851.64,2025-08-06,South,Net Banking,7703.28
+ORD1109,Priya Mehta,Sticky Notes,Stationery,1.0,1584.15,2025-09-16,West,Debit Card,1584.15
+ORD1007,Rahul Verma,Storage Box,Home & Kitchen,2.0,4122.14,2026-05-27,East,UPI,8244.28
+ORD1183,Sneha Patel,Wall Clock,Home & Kitchen,1.0,1149.48,2025-02-17,Unknown,Debit Card,1149.48
+ORD1309,Aditya Gupta,Running Shoes,Apparel,1.0,963.35,2025-03-05,South,Cash on Delivery,963.35
+ORD1221,Arjun Mehta,Webcam HD,Electronics,5.0,1518.09,2025-10-11,South,UPI,7590.45
+ORD1192,Karan Joshi,Highlighter Pack,Stationery,1.0,739.38,2025-07-12,North,Net Banking,739.38
+ORD1236,Arjun Mehta,Coffee Mug Set,Home & Kitchen,4.0,2119.5,2025-07-27,South,Credit Card,8478.0
+ORD1249,Vikram Verma,Sports Cap,Apparel,4.0,4328.43,2025-04-14,Unknown,Net Banking,17313.72
+ORD1013,Arjun Mehta,Running Shoes,Apparel,3.0,4063.32,2025-09-11,West,Credit Card,12189.96
+ORD1307,Neha Joshi,Face Wash,Beauty,1.0,2830.07,2026-02-03,South,Cash on Delivery,2830.07
+ORD1182,Arjun Reddy,Wireless Mouse,Electronics,5.0,2554.25,2025-06-25,North,Credit Card,12771.25
+ORD1058,Priya Nair,Sticky Notes,Stationery,1.0,4272.02,2025-09-28,South,UPI,4272.02
+ORD1030,Pooja Kumar,Coffee Mug Set,Home & Kitchen,1.0,3021.14,2025-10-13,West,Debit Card,3021.14
+ORD1300,Anjali Joshi,Wireless Mouse,Electronics,2.0,3725.0,2025-09-18,Unknown,Credit Card,7450.0
+ORD1311,Riya Nair,Lip Balm,Beauty,4.0,467.03,2025-08-14,East,Cash on Delivery,1868.12
+ORD1165,Neha Verma,Hair Serum,Beauty,2.0,4468.88,2025-05-11,West,Cash on Delivery,8937.76
+ORD1320,Arjun Patel,Webcam HD,Electronics,1.0,1475.41,2026-02-27,East,UPI,1475.41
+ORD1091,Dev Reddy,Body Lotion,Beauty,3.0,2123.66,2025-04-28,West,Credit Card,6370.98
+ORD1100,Isha Mehta,Running Shoes,Apparel,1.0,183.63,2025-05-13,Unknown,UPI,183.63
+ORD1045,Aman Kumar,Wireless Mouse,Electronics,2.0,3800.65,2025-10-05,South,UPI,7601.3
+ORD1074,Aman Sharma,Running Shoes,Apparel,4.0,3613.22,2026-01-19,East,Debit Card,14452.88
+ORD1288,Anjali Sharma,Sticky Notes,Stationery,2.0,4110.05,2025-08-29,West,Debit Card,8220.1
+ORD1255,Anjali Reddy,USB-C Cable,Electronics,2.0,3334.14,2026-05-10,North,Debit Card,6668.28
+ORD1112,Sneha Patel,USB-C Cable,Electronics,1.0,3029.39,2026-01-21,South,Cash on Delivery,3029.39
+ORD1287,Sneha Singh,Webcam HD,Electronics,1.0,3563.71,2025-07-24,West,UPI,3563.71
+ORD1010,Isha Reddy,Non-Stick Pan,Home & Kitchen,2.0,2123.7,2025-07-02,East,Cash on Delivery,4247.4
+ORD1048,Aman Reddy,Lip Balm,Beauty,2.0,609.09,2025-06-06,East,Net Banking,1218.18
+ORD1256,Priya Verma,Gel Pen Set,Stationery,4.0,1044.14,2025-09-29,South,Net Banking,4176.56
+ORD1062,Dev Nair,Laptop Stand,Electronics,3.0,262.51,2025-01-22,South,Cash on Delivery,787.53
+ORD1281,Arjun Reddy,Desk Organizer,Stationery,2.0,1817.43,2025-07-24,North,Cash on Delivery,3634.86
+ORD1101,Simran Sharma,Notebook Pack,Stationery,2.0,4157.06,2026-03-16,East,Cash on Delivery,8314.12
+ORD1071,Arjun Gupta,Desk Organizer,Stationery,2.0,4346.99,2025-12-06,South,Cash on Delivery,8693.98
+ORD1163,Unknown,Non-Stick Pan,Home & Kitchen,1.0,3394.25,2026-03-10,North,Credit Card,3394.25
+ORD1027,Priya Mehta,Sports Cap,Apparel,2.0,2019.57,2026-01-09,North,Debit Card,4039.14
+ORD1179,Karan Patel,Cotton T-Shirt,Apparel,3.0,1773.42,2025-01-17,West,Net Banking,5320.26
+ORD1051,Aman Patel,Lip Balm,Beauty,2.0,2556.91,2025-04-09,West,Net Banking,5113.82
+ORD1203,Sneha Patel,Non-Stick Pan,Home & Kitchen,2.0,1741.2,2025-04-27,South,Net Banking,3482.4
+ORD1036,Pooja Joshi,Wireless Mouse,Electronics,2.0,2131.06,2026-05-22,South,Net Banking,4262.12
+ORD1079,Unknown,LED Desk Lamp,Home & Kitchen,3.0,3580.46,2026-01-09,North,Cash on Delivery,10741.38
+ORD1219,Sneha Verma,Notebook Pack,Stationery,4.0,1748.89,2026-01-27,East,UPI,6995.56
+ORD1205,Isha Verma,Bluetooth Speaker,Electronics,2.0,1773.88,2026-02-02,South,Cash on Delivery,3547.76
+ORD1055,Isha Gupta,Webcam HD,Electronics,2.0,596.26,2025-10-19,North,Cash on Delivery,1192.52
+ORD1069,Rahul Sharma,Wall Clock,Home & Kitchen,3.0,3308.32,2026-03-04,West,UPI,9924.96
+ORD1317,Aditya Reddy,Desk Organizer,Stationery,5.0,1526.36,2025-01-07,West,Credit Card,7631.8
+ORD1242,Anjali Mehta,Desk Organizer,Stationery,2.0,4101.12,2026-04-02,East,Debit Card,8202.24
+ORD1065,Arjun Patel,Non-Stick Pan,Home & Kitchen,1.0,3010.82,2025-02-25,West,Net Banking,3010.82
+ORD1285,Rahul Patel,Laptop Stand,Electronics,1.0,2733.57,2025-01-21,North,Credit Card,2733.57
+ORD1277,Dev Verma,Hair Serum,Beauty,2.0,1695.48,2025-12-06,East,Net Banking,3390.96
+ORD1296,Priya Patel,Coffee Mug Set,Home & Kitchen,2.0,2544.66,2025-08-29,West,Net Banking,5089.32
+ORD1093,Rohan Verma,Notebook Pack,Stationery,1.0,2028.66,2025-03-03,East,Unknown,2028.66
+ORD1146,Unknown,Lip Balm,Beauty,4.0,1590.89,2025-11-12,North,Net Banking,6363.56
+ORD1271,Pooja Kumar,Hair Serum,Beauty,2.0,1320.51,2025-01-21,West,Cash on Delivery,2641.02
+ORD1305,Dev Verma,Sports Cap,Apparel,4.0,2595.92,2025-10-20,West,Cash on Delivery,10383.68
+ORD1212,Rahul Gupta,Notebook Pack,Stationery,2.0,1236.1,2026-07-02,East,UPI,2472.2
+ORD1142,Isha Patel,Sunscreen SPF50,Beauty,1.0,3835.2,2025-09-28,West,UPI,3835.2
+ORD1303,Dev Patel,Body Lotion,Beauty,5.0,1971.19,2026-02-12,South,Debit Card,9855.95
+ORD1286,Rahul Joshi,Notebook Pack,Stationery,2.0,1043.9,2026-03-07,North,Debit Card,2087.8
+ORD1174,Riya Kumar,Cotton T-Shirt,Apparel,2.0,1875.35,2025-11-26,South,Cash on Delivery,3750.7
+ORD1143,Karan Mehta,Notebook Pack,Stationery,3.0,469.86,2025-10-14,West,Cash on Delivery,1409.58
+ORD1002,Aman Patel,Denim Jacket,Apparel,2.0,3264.69,2026-04-05,West,UPI,6529.38
+ORD1049,Aditya Reddy,Sunscreen SPF50,Beauty,3.0,1552.02,2025-10-13,South,Credit Card,4656.06
+ORD1200,Riya Verma,Sticky Notes,Stationery,2.0,3290.67,2025-03-10,West,Debit Card,6581.34
+ORD1105,Aditya Nair,Body Lotion,Beauty,4.0,3909.47,2026-03-27,East,UPI,15637.88
+ORD1140,Pooja Gupta,Sunscreen SPF50,Beauty,4.0,4211.82,2025-06-13,East,UPI,16847.28
+ORD1228,Rahul Patel,Storage Box,Home & Kitchen,1.0,1293.83,2026-04-12,North,Net Banking,1293.83
+ORD1227,Anjali Joshi,Cotton T-Shirt,Apparel,4.0,2425.07,2026-01-16,East,UPI,9700.28
+ORD1060,Pooja Singh,Notebook Pack,Stationery,2.0,1999.35,2025-09-30,South,UPI,3998.7
+ORD1077,Isha Kumar,Storage Box,Home & Kitchen,5.0,3862.01,2026-01-26,North,UPI,19310.05
+ORD1066,Karan Singh,Notebook Pack,Stationery,2.0,4185.38,2025-05-05,Unknown,Net Banking,8370.76
+ORD1251,Arjun Nair,Cotton T-Shirt,Apparel,1.0,942.06,2025-08-15,East,Cash on Delivery,942.06
+ORD1274,Rahul Mehta,USB-C Cable,Electronics,3.0,1285.99,2025-06-03,East,UPI,3857.97
+ORD1026,Priya Sharma,Sticky Notes,Stationery,4.0,3504.37,2026-03-29,East,UPI,14017.48
+ORD1148,Simran Gupta,Sticky Notes,Stationery,5.0,3153.68,2026-04-28,West,Cash on Delivery,15768.4
+ORD1151,Arjun Reddy,Webcam HD,Electronics,4.0,4302.55,2025-02-13,South,Debit Card,17210.2
+ORD1098,Rahul Joshi,Wireless Mouse,Electronics,5.0,2262.63,2025-10-07,West,Net Banking,11313.15
+ORD1175,Rahul Mehta,Coffee Mug Set,Home & Kitchen,2.0,2177.12,2025-07-28,West,Debit Card,4354.24
+ORD1198,Rahul Kumar,Wireless Mouse,Electronics,2.0,2089.14,2026-05-28,West,Net Banking,4178.28
+ORD1110,Isha Reddy,Running Shoes,Apparel,2.0,2738.43,2026-01-21,North,Debit Card,5476.86
+ORD1318,Isha Singh,Face Wash,Beauty,1.0,2556.91,2026-02-09,West,Net Banking,2556.91
+ORD1095,Rahul Nair,Non-Stick Pan,Home & Kitchen,2.0,3661.41,2025-10-01,North,Cash on Delivery,7322.82
+ORD1295,Priya Sharma,Gel Pen Set,Stationery,2.0,2349.22,2025-06-19,West,Net Banking,4698.44
+ORD1191,Rohan Gupta,Gel Pen Set,Stationery,5.0,1350.43,2025-03-20,East,Net Banking,6752.15
+ORD1111,Neha Sharma,Highlighter Pack,Stationery,4.0,1493.57,2026-05-13,South,Debit Card,5974.28
+ORD1167,Simran Nair,Wireless Mouse,Electronics,1.0,1196.9,2025-04-02,North,Credit Card,1196.9
+ORD1001,Rahul Kumar,Wireless Mouse,Electronics,2.0,756.99,2025-03-31,North,Cash on Delivery,1513.98
+ORD1139,Dev Kumar,Face Wash,Beauty,2.0,682.97,2025-05-25,West,UPI,1365.94
+ORD1155,Riya Gupta,Laptop Stand,Electronics,3.0,3963.83,2025-04-20,North,Debit Card,11891.49
+ORD1195,Aditya Singh,Gel Pen Set,Stationery,1.0,3712.5,2025-05-23,West,Net Banking,3712.5
+ORD1209,Priya Joshi,Lip Balm,Beauty,2.0,4455.52,2025-11-01,North,UPI,8911.04
+ORD1222,Karan Patel,USB-C Cable,Electronics,2.0,3403.12,2025-03-09,East,Credit Card,6806.24
+ORD1308,Dev Patel,Desk Organizer,Stationery,1.0,206.4,2026-03-30,East,UPI,206.4
+ORD1031,Dev Sharma,Sunscreen SPF50,Beauty,1.0,3965.12,2025-09-29,East,UPI,3965.12
+ORD1299,Riya Mehta,Wall Clock,Home & Kitchen,2.0,646.0,2025-12-16,South,Credit Card,1292.0
+ORD1137,Isha Singh,Laptop Stand,Electronics,2.0,1215.22,2026-04-10,West,Debit Card,2430.44
+ORD1217,Anjali Sharma,USB-C Cable,Electronics,5.0,2871.38,2025-04-04,South,Net Banking,14356.9
+ORD1158,Aman Singh,LED Desk Lamp,Home & Kitchen,5.0,1174.52,2025-11-06,East,Debit Card,5872.6
+ORD1122,Dev Gupta,USB-C Cable,Electronics,2.0,4416.56,2025-05-19,West,UPI,8833.12
+ORD1046,Anjali Nair,Coffee Mug Set,Home & Kitchen,1.0,3533.39,2025-04-21,South,Debit Card,3533.39
+ORD1025,Rahul Singh,Hair Serum,Beauty,2.0,3271.61,2026-05-16,South,Debit Card,6543.22
+ORD1224,Rohan Sharma,Wireless Mouse,Electronics,3.0,1088.48,2025-10-21,North,Net Banking,3265.44
+ORD1039,Riya Kumar,Wall Clock,Home & Kitchen,3.0,2063.45,2025-10-06,East,UPI,6190.35
+ORD1261,Riya Nair,Highlighter Pack,Stationery,2.0,2221.74,2025-02-05,North,Net Banking,4443.48
+ORD1215,Vikram Nair,Body Lotion,Beauty,2.0,3579.12,2025-12-04,North,Credit Card,7158.24
+ORD1130,Isha Joshi,Gel Pen Set,Stationery,2.0,683.47,2025-06-26,North,Net Banking,1366.94
+ORD1134,Vikram Reddy,Hair Serum,Beauty,1.0,3766.55,2025-06-18,South,Debit Card,3766.55
+ORD1052,Pooja Reddy,USB-C Cable,Electronics,2.0,1482.0,2025-12-19,East,Net Banking,2964.0
+ORD1234,Sneha Kumar,Sticky Notes,Stationery,2.0,1976.2,2025-10-14,North,UPI,3952.4
+ORD1028,Unknown,Cotton T-Shirt,Apparel,5.0,4386.19,2025-06-16,South,UPI,21930.95
+ORD1034,Isha Reddy,Gel Pen Set,Stationery,1.0,1471.86,2025-11-26,South,Net Banking,1471.86
+ORD1099,Riya Patel,USB-C Cable,Electronics,3.0,347.57,2025-02-26,West,Cash on Delivery,1042.71
+ORD1097,Dev Gupta,Desk Organizer,Stationery,4.0,1505.62,2025-03-28,East,Cash on Delivery,6022.48
+ORD1289,Vikram Verma,Sunscreen SPF50,Beauty,1.0,3297.5,2025-08-25,North,Debit Card,3297.5
+ORD1018,Rohan Kumar,Face Wash,Beauty,2.0,1917.9,2026-02-15,West,UPI,3835.8
+ORD1253,Rahul Verma,USB-C Cable,Electronics,1.0,359.44,2025-06-20,West,Net Banking,359.44
+ORD1153,Pooja Sharma,Hair Serum,Beauty,1.0,1947.86,2025-05-21,West,Credit Card,1947.86
+ORD1117,Pooja Reddy,Lip Balm,Beauty,1.0,1780.87,2025-04-12,North,Debit Card,1780.87
+ORD1088,Pooja Nair,USB-C Cable,Electronics,4.0,218.65,2025-10-05,East,Credit Card,874.6
+ORD1176,Vikram Sharma,Hair Serum,Beauty,3.0,2556.91,2025-06-06,West,Debit Card,7670.73
+ORD1270,Neha Mehta,Highlighter Pack,Stationery,2.0,3793.79,2025-10-19,East,Credit Card,7587.58
+ORD1243,Simran Patel,Storage Box,Home & Kitchen,2.0,415.26,2025-05-21,East,Net Banking,830.52
+ORD1068,Riya Joshi,Storage Box,Home & Kitchen,2.0,2137.02,2025-07-15,South,Net Banking,4274.04
+ORD1131,Isha Singh,Non-Stick Pan,Home & Kitchen,2.0,3246.37,2025-08-18,South,Debit Card,6492.74
+ORD1169,Pooja Singh,Lip Balm,Beauty,2.0,4437.78,2025-11-04,South,Net Banking,8875.56
+ORD1160,Aditya Nair,Gel Pen Set,Stationery,4.0,1958.93,2025-08-12,West,Cash on Delivery,7835.72
+ORD1240,Priya Kumar,Wireless Mouse,Electronics,2.0,1011.88,2025-03-28,West,Debit Card,2023.76
+ORD1197,Rohan Verma,Body Lotion,Beauty,2.0,3010.57,2025-02-15,East,UPI,6021.14
+ORD1276,Riya Mehta,Sports Cap,Apparel,3.0,3827.57,2025-10-04,South,Debit Card,11482.71
+ORD1150,Isha Kumar,Wall Clock,Home & Kitchen,3.0,3504.61,2025-11-21,South,Net Banking,10513.83
+ORD1204,Arjun Nair,Highlighter Pack,Stationery,1.0,1663.47,2025-06-26,West,Cash on Delivery,1663.47
+ORD1037,Simran Kumar,Wireless Mouse,Electronics,2.0,3647.88,2025-09-13,West,Credit Card,7295.76
+ORD1310,Vikram Gupta,Lip Balm,Beauty,3.0,174.56,2025-02-10,West,UPI,523.68
+ORD1314,Aman Patel,Lip Balm,Beauty,4.0,2387.24,2025-02-14,West,Net Banking,9548.96
+ORD1304,Isha Patel,Wool Sweater,Apparel,4.0,3246.65,2025-08-03,South,UPI,12986.6
+ORD1057,Pooja Verma,Non-Stick Pan,Home & Kitchen,5.0,2787.48,2026-01-25,South,Cash on Delivery,13937.4
+ORD1044,Arjun Singh,Coffee Mug Set,Home & Kitchen,5.0,1247.38,2025-01-20,North,Net Banking,6236.9
+ORD1124,Dev Singh,Non-Stick Pan,Home & Kitchen,1.0,3627.14,2026-03-27,West,Net Banking,3627.14
+ORD1121,Arjun Mehta,Notebook Pack,Stationery,3.0,3400.83,2025-12-20,East,Unknown,10202.49
+ORD1156,Riya Gupta,Body Lotion,Beauty,2.0,1336.84,2025-06-16,North,Debit Card,2673.68
+ORD1208,Isha Sharma,Bluetooth Speaker,Electronics,3.0,1128.07,2026-04-14,East,UPI,3384.21
+ORD1056,Rahul Joshi,Cotton T-Shirt,Apparel,1.0,3726.2,2025-03-17,West,Net Banking,3726.2
+ORD1073,Priya Nair,Highlighter Pack,Stationery,1.0,1171.25,2025-03-04,East,UPI,1171.25
+ORD1259,Anjali Mehta,Sunscreen SPF50,Beauty,5.0,1756.9,2025-09-27,West,Credit Card,8784.5
+ORD1313,Aman Verma,Sunscreen SPF50,Beauty,4.0,2088.65,2025-11-25,South,Credit Card,8354.6
+ORD1115,Priya Joshi,Running Shoes,Apparel,4.0,2562.25,2025-05-08,North,Cash on Delivery,10249.0
+ORD1312,Arjun Verma,Body Lotion,Beauty,4.0,1112.21,2025-12-06,South,Debit Card,4448.84
+ORD1225,Vikram Singh,Body Lotion,Beauty,1.0,1498.09,2025-01-12,South,UPI,1498.09
+ORD1005,Rohan Kumar,Running Shoes,Apparel,1.0,1803.55,2025-06-16,West,Debit Card,1803.55
+ORD1164,Isha Reddy,Notebook Pack,Stationery,2.0,3495.03,2026-01-27,West,Debit Card,6990.06
+ORD1145,Aditya Gupta,Storage Box,Home & Kitchen,2.0,1576.65,2026-02-07,East,UPI,3153.3
+ORD1154,Karan Singh,Desk Organizer,Stationery,4.0,1391.56,2025-08-26,North,Credit Card,5566.24
+ORD1104,Pooja Verma,LED Desk Lamp,Home & Kitchen,2.0,1263.46,2025-06-06,South,Cash on Delivery,2526.92
+ORD1133,Simran Reddy,Highlighter Pack,Stationery,1.0,695.17,2026-06-04,East,Credit Card,695.17
+ORD1047,Pooja Verma,Cotton T-Shirt,Apparel,3.0,3848.78,2025-02-12,North,Cash on Delivery,11546.34
+ORD1237,Aditya Mehta,Wool Sweater,Apparel,5.0,2738.43,2026-04-08,East,UPI,13692.15
+ORD1067,Simran Verma,Face Wash,Beauty,2.0,4466.32,2025-05-01,North,Net Banking,8932.64
+ORD1043,Rohan Reddy,Face Wash,Beauty,2.0,3920.8,2025-09-24,South,Credit Card,7841.6
+ORD1015,Riya Kumar,Running Shoes,Apparel,2.0,3296.58,2026-04-30,West,UPI,6593.16
+ORD1038,Dev Joshi,Body Lotion,Beauty,5.0,2556.91,2026-02-05,West,UPI,12784.55
+ORD1254,Sneha Joshi,Sunscreen SPF50,Beauty,2.0,857.56,2025-10-29,North,Credit Card,1715.12
+ORD1011,Aman Nair,LED Desk Lamp,Home & Kitchen,4.0,2275.43,2025-11-11,North,Debit Card,9101.72
+ORD1132,Neha Patel,Notebook Pack,Stationery,4.0,2183.22,2025-03-30,South,Cash on Delivery,8732.88
+ORD1162,Rohan Patel,Sunscreen SPF50,Beauty,2.0,3667.81,2026-02-03,West,UPI,7335.62
+ORD1035,Riya Gupta,Sports Cap,Apparel,1.0,1384.47,2025-08-29,Unknown,Credit Card,1384.47
+ORD1042,Riya Sharma,Storage Box,Home & Kitchen,5.0,1612.16,2026-04-24,West,UPI,8060.8
+ORD1152,Karan Kumar,Storage Box,Home & Kitchen,3.0,4208.65,2025-04-22,East,UPI,12625.95
+ORD1147,Pooja Sharma,Body Lotion,Beauty,2.0,891.73,2025-09-06,West,UPI,1783.46
+ORD1319,Arjun Patel,Denim Jacket,Apparel,3.0,4326.58,2026-01-18,South,Debit Card,12979.74
+ORD1023,Rohan Patel,Face Wash,Beauty,2.0,2350.6,2025-03-12,South,Debit Card,4701.2
+ORD1125,Rahul Verma,Sticky Notes,Stationery,5.0,493.33,2025-10-28,South,Cash on Delivery,2466.65
+ORD1012,Riya Verma,Wireless Mouse,Electronics,2.0,708.5,2025-06-19,West,Cash on Delivery,1417.0
+ORD1211,Neha Patel,Webcam HD,Electronics,3.0,2746.33,2025-10-27,South,Debit Card,8238.99
+ORD1083,Sneha Gupta,Storage Box,Home & Kitchen,1.0,4266.24,2025-04-29,East,Net Banking,4266.24
+ORD1108,Anjali Sharma,Non-Stick Pan,Home & Kitchen,2.0,3228.15,2025-06-12,West,Cash on Delivery,6456.3
+ORD1263,Arjun Patel,Highlighter Pack,Stationery,4.0,3876.32,2026-03-06,West,Credit Card,15505.28
+ORD1246,Priya Kumar,Running Shoes,Apparel,5.0,1693.4,2025-08-31,South,UPI,8467.0
+ORD1284,Aman Kumar,Wool Sweater,Apparel,2.0,3313.18,2025-01-23,South,UPI,6626.36
+ORD1059,Anjali Sharma,Face Wash,Beauty,5.0,2109.69,2025-02-03,Unknown,Debit Card,10548.45
+ORD1170,Riya Sharma,Highlighter Pack,Stationery,4.0,4245.9,2025-11-23,West,Unknown,16983.6
+ORD1213,Aditya Verma,Desk Organizer,Stationery,1.0,1902.4,2026-11-04,East,Debit Card,1902.4
+ORD1278,Priya Nair,Laptop Stand,Electronics,1.0,2204.16,2025-03-05,South,Cash on Delivery,2204.16
+ORD1061,Isha Joshi,Wall Clock,Home & Kitchen,1.0,2188.84,2025-06-10,East,Net Banking,2188.84
+ORD1186,Arjun Mehta,Body Lotion,Beauty,1.0,2908.43,2025-08-22,West,Net Banking,2908.43
+ORD1081,Vikram Kumar,Notebook Pack,Stationery,5.0,4357.62,2026-02-09,East,Credit Card,21788.1
+ORD1096,Neha Sharma,Coffee Mug Set,Home & Kitchen,2.0,3933.9,2025-05-26,West,Credit Card,7867.8
+ORD1144,Neha Gupta,Coffee Mug Set,Home & Kitchen,2.0,2770.71,2025-02-11,West,Cash on Delivery,5541.42
+ORD1279,Karan Mehta,Denim Jacket,Apparel,5.0,4444.28,2025-11-20,West,UPI,22221.4
+ORD1294,Rahul Mehta,Wireless Mouse,Electronics,1.0,3214.87,2025-08-04,South,Debit Card,3214.87
+ORD1118,Vikram Joshi,Storage Box,Home & Kitchen,2.0,2826.76,2025-09-20,North,Credit Card,5653.52
+ORD1226,Priya Kumar,Gel Pen Set,Stationery,1.0,4172.13,2025-02-26,North,Net Banking,4172.13
+ORD1257,Riya Gupta,Laptop Stand,Electronics,1.0,1719.61,2025-10-29,West,Credit Card,1719.61
+ORD1004,Priya Joshi,Lip Balm,Beauty,1.0,4383.05,2025-10-28,West,Credit Card,4383.05
+ORD1247,Vikram Nair,Wall Clock,Home & Kitchen,2.0,3789.63,2025-11-13,West,Cash on Delivery,7579.26
+ORD1177,Riya Patel,Hair Serum,Beauty,4.0,1269.37,2026-04-17,West,Net Banking,5077.48
+ORD1181,Neha Singh,Lip Balm,Beauty,5.0,493.73,2025-09-07,West,Net Banking,2468.65
+ORD1293,Aditya Gupta,Sunscreen SPF50,Beauty,5.0,3539.36,2026-10-05,North,UPI,17696.8
+ORD1301,Karan Mehta,Wool Sweater,Apparel,1.0,3443.6,2025-07-05,North,Cash on Delivery,3443.6
+ORD1129,Dev Singh,Storage Box,Home & Kitchen,2.0,4328.26,2026-05-27,Unknown,UPI,8656.52
+ORD1265,Arjun Gupta,Running Shoes,Apparel,5.0,318.7,2025-02-20,East,UPI,1593.5
+ORD1040,Arjun Gupta,Denim Jacket,Apparel,2.0,429.4,2026-04-23,West,Debit Card,858.8
+ORD1194,Pooja Mehta,Highlighter Pack,Stationery,5.0,1369.31,2025-04-27,West,Debit Card,6846.55
+ORD1193,Vikram Singh,Highlighter Pack,Stationery,4.0,2773.97,2025-11-18,South,Net Banking,11095.88
+ORD1090,Sneha Joshi,Desk Organizer,Stationery,2.0,469.68,2025-06-01,North,Debit Card,939.36
+ORD1292,Arjun Joshi,Sticky Notes,Stationery,5.0,2972.48,2025-05-16,South,Credit Card,14862.4
+ORD1135,Rohan Singh,Lip Balm,Beauty,2.0,2912.5,2025-11-07,East,UPI,5825.0
+ORD1141,Rohan Reddy,Notebook Pack,Stationery,2.0,4355.09,2025-12-28,South,Cash on Delivery,8710.18
+ORD1267,Rohan Kumar,Highlighter Pack,Stationery,2.0,1069.55,2026-01-18,West,Net Banking,2139.1
+ORD1053,Isha Singh,Sticky Notes,Stationery,2.0,674.85,2025-05-03,South,Debit Card,1349.7
+ORD1166,Simran Patel,Highlighter Pack,Stationery,5.0,3731.62,2025-12-21,South,Net Banking,18658.1
+ORD1024,Isha Nair,Highlighter Pack,Stationery,1.0,3055.2,2025-05-18,East,Credit Card,3055.2
+ORD1233,Pooja Gupta,Gel Pen Set,Stationery,1.0,4205.93,2025-12-21,North,UPI,4205.93
+ORD1241,Vikram Verma,Wool Sweater,Apparel,4.0,683.0,2025-06-22,West,Credit Card,2732.0
+ORD1199,Simran Verma,USB-C Cable,Electronics,1.0,3766.23,2025-11-16,South,Debit Card,3766.23
+ORD1185,Arjun Gupta,Lip Balm,Beauty,1.0,2328.45,2025-11-04,East,Credit Card,2328.45
+ORD1266,Isha Singh,Coffee Mug Set,Home & Kitchen,2.0,3883.32,2025-05-18,North,UPI,7766.64
+ORD1106,Priya Mehta,Coffee Mug Set,Home & Kitchen,1.0,1500.27,2025-02-28,West,Credit Card,1500.27
+ORD1022,Rahul Reddy,LED Desk Lamp,Home & Kitchen,2.0,3071.85,2025-11-20,East,Net Banking,6143.7
+ORD1120,Simran Sharma,Running Shoes,Apparel,4.0,1196.45,2025-03-29,West,UPI,4785.8
+ORD1190,Rohan Patel,Desk Organizer,Stationery,2.0,2638.03,2025-06-23,South,Net Banking,5276.06
+ORD1136,Dev Nair,Body Lotion,Beauty,1.0,3739.78,2025-02-16,North,Credit Card,3739.78
+ORD1033,Dev Verma,Wall Clock,Home & Kitchen,3.0,2355.98,2026-02-17,West,Debit Card,7067.94
+ORD1119,Isha Verma,LED Desk Lamp,Home & Kitchen,1.0,1187.21,2025-04-24,West,Credit Card,1187.21
+ORD1250,Riya Mehta,Wool Sweater,Apparel,2.0,3226.25,2025-06-29,East,Unknown,6452.5
+ORD1113,Aditya Sharma,Hair Serum,Beauty,5.0,1734.7,2025-10-19,South,Net Banking,8673.5
+ORD1021,Sneha Nair,Wool Sweater,Apparel,2.0,2668.3,2025-03-25,North,Cash on Delivery,5336.6
+ORD1184,Karan Nair,Non-Stick Pan,Home & Kitchen,2.0,3422.31,2025-11-03,West,Credit Card,6844.62
+ORD1248,Pooja Sharma,Bluetooth Speaker,Electronics,2.0,152.97,2025-12-15,South,UPI,305.94
+ORD1075,Anjali Gupta,Highlighter Pack,Stationery,2.0,493.51,2025-04-09,West,Cash on Delivery,987.02
+ORD1290,Anjali Sharma,Wireless Mouse,Electronics,3.0,1716.93,2025-04-29,East,Net Banking,5150.79
+ORD1092,Aditya Reddy,Sticky Notes,Stationery,5.0,3323.81,2025-11-17,East,Net Banking,16619.05
+ORD1082,Arjun Mehta,Coffee Mug Set,Home & Kitchen,1.0,3085.54,2025-12-02,West,Credit Card,3085.54
+ORD1229,Anjali Singh,Running Shoes,Apparel,1.0,4040.07,2025-01-03,North,UPI,4040.07
+ORD1072,Vikram Reddy,Notebook Pack,Stationery,2.0,475.5,2026-02-12,East,Debit Card,951.0
+ORD1264,Sneha Verma,Body Lotion,Beauty,1.0,3567.99,2025-09-28,East,Net Banking,3567.99
+ORD1085,Pooja Mehta,Desk Organizer,Stationery,1.0,4417.04,2026-01-03,East,Cash on Delivery,4417.04
+ORD1315,Anjali Patel,Wireless Mouse,Electronics,1.0,2877.16,2026-03-11,South,UPI,2877.16
+ORD1123,Karan Sharma,Cotton T-Shirt,Apparel,4.0,4210.16,2026-04-30,West,Cash on Delivery,16840.64
+ORD1006,Anjali Patel,Non-Stick Pan,Home & Kitchen,2.0,860.8,2025-08-13,West,Debit Card,1721.6
+ORD1258,Isha Verma,Denim Jacket,Apparel,3.0,3820.4,2026-04-28,East,Net Banking,11461.2
+ORD1187,Rohan Nair,Sunscreen SPF50,Beauty,3.0,3621.54,2025-10-02,North,Credit Card,10864.62
